@@ -50,39 +50,50 @@ I enjoy building practical applications and combining programming with design to
 
 ---
 
-## 📂 My GitHub Projects
+## 📂 Current GitHub Projects
 
-These are projects currently available in my GitHub repositories.
+Only repositories that currently exist on my GitHub are listed here.
 
 ### 🌐 OnlineInvitation
-
-A web-based online invitation project.
+Web-based online invitation project.
 
 [View Repository](https://github.com/Justine976/OnlineInvitation)
 
 ### 📚 OnlineLibrary-ApacheTomcat-MySQL-PHPlocal
-
-An online library system project using Apache Tomcat, MySQL, PHP, and local development tools.
+Online library system using Apache Tomcat, MySQL, PHP, and local development tools.
 
 [View Repository](https://github.com/Justine976/OnlineLibrary-ApacheTomcat-MySQL-PHPlocal)
 
 ### 🗄️ CrudApplication-SQLite
-
-A CRUD application using SQLite for local database storage.
+CRUD application using SQLite for local database storage.
 
 [View Repository](https://github.com/Justine976/CrudApplication-SQLite)
 
 ### 👥 EmployeeManagementSystem
-
-An employee management system project.
+Employee management system project.
 
 [View Repository](https://github.com/Justine976/EmployeeManagementSystem)
 
 ### 💰 PayRoll
-
-A payroll-related project currently available in my GitHub repositories.
+Payroll-related project currently available in my GitHub repositories.
 
 [View Repository](https://github.com/Justine976/PayRoll)
+
+### 📸 CanIHaveAPicture
+A web project currently available in my GitHub repositories.
+
+[View Repository](https://github.com/Justine976/CanIHaveAPicture)
+
+---
+
+## 🏆 Awards & Certifications
+
+- Introduction to Visual Graphic Design
+- Developing Design for a Logo
+- Developing Design for Print Logo
+- Developing Design for User Experience
+- Developing Design for User Interface
+- Developing Design for Product Packaging
 
 ---
 
