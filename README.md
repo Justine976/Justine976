@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science Student | Java Developer | UI/UX & Graphic Design
 
-I'm a Computer Science student from the Philippines interested in **software development, database systems, UI/UX design, and digital creativity**.
+I'm a Computer Science student from the Philippines interested in **software development, database systems, web development, UI/UX design, and digital creativity**.
 
 I enjoy building practical applications and combining programming with design to create clean, useful, and user-friendly projects.
 
@@ -52,13 +52,7 @@ I enjoy building practical applications and combining programming with design to
 
 ## 📂 My GitHub Projects
 
-These are the projects currently available on my GitHub profile.
-
-### 🌐 Web-Invitation
-
-An HTML-based web invitation project.
-
-[View Repository](https://github.com/Justine976/Web-Invitation)
+These are projects currently available in my GitHub repositories.
 
 ### 🌐 OnlineInvitation
 
@@ -68,21 +62,27 @@ A web-based online invitation project.
 
 ### 📚 OnlineLibrary-ApacheTomcat-MySQL-PHPlocal
 
-An online library system project using Java, Apache Tomcat, MySQL, and PHP/local development tools.
+An online library system project using Apache Tomcat, MySQL, PHP, and local development tools.
 
 [View Repository](https://github.com/Justine976/OnlineLibrary-ApacheTomcat-MySQL-PHPlocal)
 
 ### 🗄️ CrudApplication-SQLite
 
-A Java CRUD application using SQLite for database storage.
+A CRUD application using SQLite for local database storage.
 
 [View Repository](https://github.com/Justine976/CrudApplication-SQLite)
 
 ### 👥 EmployeeManagementSystem
 
-A Java-based employee management system project.
+An employee management system project.
 
 [View Repository](https://github.com/Justine976/EmployeeManagementSystem)
+
+### 💰 PayRoll
+
+A payroll-related project currently available in my GitHub repositories.
+
+[View Repository](https://github.com/Justine976/PayRoll)
 
 ---
 
