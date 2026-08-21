@@ -11,8 +11,8 @@ I enjoy building practical applications and combining programming with design to
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- ☕ Java & JavaFX Developer
-- 🗄️ SQL, SQLite, MySQL & JDBC
+- ☕ Java Developer
+- 🗄️ SQL, SQLite & MySQL
 - 🌐 Web Development
 - 🎨 UI/UX & Graphic Design
 - 🧊 Blender & 3D Modeling
@@ -31,7 +31,7 @@ I enjoy building practical applications and combining programming with design to
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Database & Frameworks
+### Database & Development
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -50,44 +50,39 @@ I enjoy building practical applications and combining programming with design to
 
 ---
 
-## 📌 Featured Project
+## 📂 My GitHub Projects
 
-### 💰 TahoPayroll — Desktop Payroll System
+These are the projects currently available on my GitHub profile.
 
-A Java-based desktop payroll management system for employee records, attendance, payroll computation, payslips, and reports.
+### 🌐 Web-Invitation
 
-**Built with:** `Java` `JavaFX` `SQLite` `JDBC` `Maven`
+An HTML-based web invitation project.
 
-**Main features:**
-- Employee management
-- Attendance tracking
-- Payroll computation
-- Payslip generation
-- Payroll history
-- Search and filtering
-- Database backup and restore
-- CSV/XLSX data handling
-- Offline desktop operation
+[View Repository](https://github.com/Justine976/Web-Invitation)
 
-<p>
-  <a href="https://github.com/Justine976/PayRoll_System_App">
-    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View TahoPayroll Project"/>
-  </a>
-</p>
+### 🌐 OnlineInvitation
 
----
+A web-based online invitation project.
 
-## 🏋️ TodaysWorkout
+[View Repository](https://github.com/Justine976/OnlineInvitation)
 
-An Android workout management concept focused on organizing workouts and tracking progress.
+### 📚 OnlineLibrary-ApacheTomcat-MySQL-PHPlocal
 
-- 📅 Daily, weekly, and monthly workouts
-- ⏰ Workout reminders
-- 🏋️ Exercise tracking
-- 📈 Progress and PR tracking
-- 👤 Personal profile
-- 📝 Editable workout plans
-- 📆 Date and time selection
+An online library system project using Java, Apache Tomcat, MySQL, and PHP/local development tools.
+
+[View Repository](https://github.com/Justine976/OnlineLibrary-ApacheTomcat-MySQL-PHPlocal)
+
+### 🗄️ CrudApplication-SQLite
+
+A Java CRUD application using SQLite for database storage.
+
+[View Repository](https://github.com/Justine976/CrudApplication-SQLite)
+
+### 👥 EmployeeManagementSystem
+
+A Java-based employee management system project.
+
+[View Repository](https://github.com/Justine976/EmployeeManagementSystem)
 
 ---
 
