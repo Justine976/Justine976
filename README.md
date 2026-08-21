@@ -86,17 +86,6 @@ A web project currently available in my GitHub repositories.
 
 ---
 
-## 🏆 Awards & Certifications
-
-- Introduction to Visual Graphic Design
-- Developing Design for a Logo
-- Developing Design for Print Logo
-- Developing Design for User Experience
-- Developing Design for User Interface
-- Developing Design for Product Packaging
-
----
-
 ## 🎨 Creative Skills
 
 UI/UX Design • Graphic Design • Logo Design • Print Design • Product Packaging • Digital Illustration • 3D Modeling • Roblox Asset Design
