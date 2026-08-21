@@ -50,42 +50,6 @@ I enjoy building practical applications and combining programming with design to
 
 ---
 
-## 📂 Current GitHub Projects
-
-Only repositories that currently exist on my GitHub are listed here.
-
-### 🌐 OnlineInvitation
-Web-based online invitation project.
-
-[View Repository](https://github.com/Justine976/OnlineInvitation)
-
-### 📚 OnlineLibrary-ApacheTomcat-MySQL-PHPlocal
-Online library system using Apache Tomcat, MySQL, PHP, and local development tools.
-
-[View Repository](https://github.com/Justine976/OnlineLibrary-ApacheTomcat-MySQL-PHPlocal)
-
-### 🗄️ CrudApplication-SQLite
-CRUD application using SQLite for local database storage.
-
-[View Repository](https://github.com/Justine976/CrudApplication-SQLite)
-
-### 👥 EmployeeManagementSystem
-Employee management system project.
-
-[View Repository](https://github.com/Justine976/EmployeeManagementSystem)
-
-### 💰 PayRoll
-Payroll-related project currently available in my GitHub repositories.
-
-[View Repository](https://github.com/Justine976/PayRoll)
-
-### 📸 CanIHaveAPicture
-A web project currently available in my GitHub repositories.
-
-[View Repository](https://github.com/Justine976/CanIHaveAPicture)
-
----
-
 ## 🎨 Creative Skills
 
 UI/UX Design • Graphic Design • Logo Design • Print Design • Product Packaging • Digital Illustration • 3D Modeling • Roblox Asset Design
