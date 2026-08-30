@@ -1,155 +1,145 @@
 <div align="center">
 
-# 👋 Hey, I'm Justine
+# 👾 JUSTINE O.
+### `computer science student` · `java developer` · `vibe coder`
 
-### 💻 Computer Science Student · Java Developer · Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+software.;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Ship.;Java+%7C+Databases+%7C+Web+%7C+UI%2FUX;Still+learning.+Still+building.+Still+shipping." alt="Typing SVG" />
 
-**I like turning ideas into working software.**
-
-From desktop systems and databases to web apps, portfolio experiences, and creative digital projects —
-I build, break, improve, and build again.
-
-<br>
-
-<a href="https://justine976.github.io/PortfolioResume/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio" />
-</a>
-<a href="https://github.com/Justine976">
-  <img src="https://img.shields.io/badge/GitHub-Justine976-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<a href="https://justine976.github.io/PortfolioResume/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit-58A6FF?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://github.com/Justine976"><img src="https://img.shields.io/badge/GITHUB-Justine976-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
 ---
 
-## 🧠 The Vibe
+## 🧠 `whoami`
 
 ```text
-Idea → Code → Test → Break → Fix → Improve → Ship 🚀
-```
+> justine@dev:~$ whoami
+Computer Science student who likes building things.
 
-I'm a **Computer Science student** who enjoys building practical projects and learning by actually making things.
-I spend most of my time around **Java, databases, web development, UI/UX, and creative tools**.
-
-I don't just want code that works.
-
-> I want to understand how it works, make it cleaner, and make the experience better.
-
----
-
-## 🛠️ What I Build
-
-| Area | Things I Work With |
-| --- | --- |
-| ☕ Backend / Desktop | Java, JavaFX, JDBC |
-| 🗄️ Databases | SQLite, MySQL, SQL |
-| 🌐 Web | HTML, CSS, JavaScript |
-| 🔧 Development | Git, GitHub, NetBeans, VS Code |
-| 🎨 Design | UI/UX, Photoshop, Illustrator |
-| 🧊 3D / Creative | Blender, digital assets, Roblox Studio |
-| 🔌 Electronics | Assembly, wiring, soldering, troubleshooting |
-
----
-
-## 🚀 Projects I'm Proud Of
-
-### 💼 Employee Management System
-A Java-based employee management application focused on handling employee records and related business data.
-
-**Stack:** Java · Swing · MySQL
-
-### 💰 Payroll Systems
-I've built payroll-focused applications for managing employee information, attendance, payroll calculations, and payslip-related workflows.
-
-**Stack:** Java · JavaFX · SQLite · JDBC
-
-### 📚 Online Library
-A web-based library project for managing library records and working with a database-backed application.
-
-**Stack:** Java · Servlets/JSP · MySQL · JDBC · Apache Tomcat
-
-### 💌 Online Invitation
-A browser-based invitation builder with sharing and RSVP functionality, built without a traditional backend server.
-
-**Stack:** HTML · CSS · JavaScript · EmailJS
-
-### 🖥️ Portfolio Resume
-A code-editor-inspired portfolio website with dynamic GitHub projects, downloadable resume support, contact functionality, and a Cloudflare-backed visitor counter.
-
-**Stack:** HTML · CSS · JavaScript · GitHub API · Cloudflare Workers
-
----
-
-## ⚡ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans" />
-</p>
-
----
-
-## 🎨 Beyond Code
-
-I also like the visual side of building things:
-
-**UI/UX · Graphic Design · Logo Design · Digital Illustration · 3D Modeling · Roblox Assets**
-
-Sometimes the hardest part isn't writing the code.
-It's making the thing **feel right**.
-
----
-
-## 📈 What I'm Working On
-
-- 🧠 Getting better at software architecture and problem solving
-- ☕ Building stronger Java and database skills
-- 🌐 Improving my full-stack development skills
-- 🎨 Mixing code with better UI/UX and visual design
-- 🚀 Turning school projects into more polished real-world projects
-
----
-
-## 💡 Current Mindset
-
-```text
+> justine@dev:~$ cat mindset.txt
 Learn the fundamentals.
 Build real things.
-Make mistakes.
+Break things.
 Fix them.
-Keep going.
+Make them better.
+Ship. 🚀
+```
+
+I'm a **Computer Science student** focused on building practical software and improving one project at a time. My main playground is **Java + databases**, but I also enjoy web development, UI/UX, graphic design, 3D/creative work, and electronics.
+
+I don't just want something that works — **I want to understand it, improve it, and make it feel good to use.**
+
+---
+
+## ⚡ `tech --list`
+
+### 💻 Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+
+### 🎨 Creative
+
+`UI/UX` · `Photoshop` · `Illustrator` · `Blender` · `Roblox Studio` · `Digital Assets`
+
+### 🔌 Electronics
+
+`Assembly` · `Wiring` · `Soldering` · `Multimeter` · `Troubleshooting`
+
+---
+
+## 🚀 `projects --featured`
+
+| Project | What it does | Stack |
+|---|---|---|
+| 💰 **PayRoll** | Payroll, employee, attendance and payslip workflows | `Java` `JavaFX` `SQLite` `JDBC` |
+| 👥 **Employee Management System** | Employee records and business data management | `Java` `Swing` `MySQL` |
+| 📚 **Online Library** | Database-backed library management web app | `Java` `JSP/Servlets` `MySQL` `Tomcat` |
+| 💌 **Online Invitation** | Browser invitation builder with sharing + RSVP | `HTML` `CSS` `JavaScript` `EmailJS` |
+| 🖥️ **Portfolio Resume** | Code-editor-inspired personal portfolio | `HTML` `CSS` `JavaScript` `GitHub API` |
+
+> 🔎 More experiments, school projects, and builds live on my [GitHub profile](https://github.com/Justine976).
+
+---
+
+## 🧪 `current.exe`
+
+```yaml
+focus:
+  - software architecture
+  - problem solving
+  - stronger Java + database skills
+  - full-stack development
+  - better UI/UX
+
+build_style:
+  idea: "start simple"
+  code: "make it work"
+  refactor: "make it clean"
+  design: "make it feel right"
+  ship: "🚀"
 ```
 
 ---
 
-## 🌐 Find Me
+## 📊 `github --status`
 
-<p align="center">
-  <a href="https://github.com/Justine976">
-    <img src="https://img.shields.io/badge/GitHub-Justine976-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://justine976.github.io/PortfolioResume/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Justine976&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justine976&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎨 beyond the terminal
+
+Coding is only part of the fun.
+
+I also enjoy **UI/UX, graphic design, logo design, digital illustration, 3D modeling, Roblox assets, and electronics**.
+
+Sometimes the difficult part isn't writing the code.
+
+**It's making the thing feel right.**
+
+---
+
+## 🌐 `connect`
+
+<div align="center">
+
+<a href="https://justine976.github.io/PortfolioResume/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Justine976"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<br><br>
+
+### `☕ Code. Create. Repeat.`
+
+**Still learning. Still building. Still shipping.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### ☕ Code. Create. Repeat.
-
-*Still learning. Still building. Still shipping.*
+<sub>Built with Markdown, caffeine, curiosity, and questionable amounts of debugging. ☕</sub>
 
 </div>
