@@ -1,158 +1,144 @@
 <div align="center">
 
-# 👾 JUSTINE O.
+# JUSTINE O.
 
 ### `computer science student` · `java developer` · `vibe coder`
 
-**I build things, break things, fix things, and learn by doing.**
+**I build practical software, learn by doing, and keep improving what I create.**
 
-[🌐 Portfolio](https://justine976.github.io/PortfolioResume/) · [💻 GitHub](https://github.com/Justine976) · [💼 LinkedIn](https://linkedin.com/in/justine-odi) · [🧑‍💻 Upwork](https://upwork.com/freelancers/~012b4f3d02ee182cad)
+[Portfolio](https://justine976.github.io/PortfolioResume/) · [GitHub](https://github.com/Justine976) · [LinkedIn](https://linkedin.com/in/justine-odi) · [Upwork](https://upwork.com/freelancers/~012b4f3d02ee182cad)
 
 </div>
 
 ---
 
-## 🧠 `whoami`
+## `whoami`
 
-```text
-> justine@dev:~$ whoami
-Computer Science student + builder
+I'm **Justine O.**, a Computer Science student focused on building practical applications with **Java, databases, and web technologies**.
 
-> justine@dev:~$ vibe
-Idea → Code → Test → Break → Fix → Improve → Ship 🚀
+I learn best by building real projects: start with an idea, write the code, test it, understand what breaks, and improve the next version.
 
-> justine@dev:~$ mindset
-Build real things.
-Understand what I build.
-Learn from what breaks.
-Keep improving.
-```
+My main interests are:
 
-I'm **Justine O.**, a Computer Science student who enjoys turning ideas into working software.
-
-My main interests are **Java development, databases, desktop applications, web development, and UI/UX**. I like learning through projects instead of only studying theory: build something, find the problem, understand it, fix it, and make the next version better.
-
-I'm still growing as a developer, but I care about writing code that is **useful, understandable, and maintainable**.
+- Java desktop and web applications
+- Database-driven systems
+- Backend and application logic
+- UI/UX and clean interfaces
+- Learning new tools by building projects
 
 ---
 
-## ⚡ `stack --current`
+## `stack`
 
-### 💻 Development
+### Languages
 
-`Java` · `JavaFX` · `JavaScript` · `HTML` · `CSS` · `SQL` · `JDBC` · `Servlets/JSP`
+`Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
 
-### 🗄️ Databases
+### Java / Web
+
+`JavaFX` · `Swing` · `JDBC` · `Servlets/JSP`
+
+### Databases
 
 `SQLite` · `MySQL`
 
-### 🛠️ Tools
+### Tools
 
-`Git` · `GitHub` · `Apache NetBeans` · `VS Code` · `Maven`
+`Git` · `GitHub` · `Maven` · `Apache NetBeans` · `VS Code`
 
-### 🎨 Creative
+### Creative / Other
 
-`UI/UX` · `Photoshop` · `Illustrator` · `Blender` · `Roblox Studio`
-
-### 🔌 Electronics
-
-`Assembly` · `Wiring` · `Soldering` · `Multimeter` · `Troubleshooting`
+`UI/UX` · `Photoshop` · `Illustrator` · `Blender` · `Roblox Studio` · `Electronics`
 
 ---
 
-## 🚀 `projects --featured`
+## `projects --featured`
 
-### 💰 [TahoPayroll System](https://github.com/Justine976/Taho-PayRoll)
+### [TahoPayroll System](https://github.com/Justine976/Taho-PayRoll)
 
-A Windows desktop payroll application built around real payroll workflows: employee records, attendance, payroll runs, payslips, Excel import, PDF generation, exports, backups, and local authentication.
+A desktop payroll management system designed around real payroll workflows, including employee records, attendance, payroll processing, payslips, imports/exports, PDF generation, and local data management.
 
 **Stack:** `Java 25` · `JavaFX` · `SQLite` · `Maven` · `Flyway` · `Apache POI` · `OpenPDF`
 
-### 👥 [Employee Management System](https://github.com/Justine976/EmployeeManagementSystem)
+### [Employee Management System](https://github.com/Justine976/EmployeeManagementSystem)
 
-A Java desktop application for managing employee records and business-related data with a database-backed workflow.
+A Java desktop application for managing employee information with a database-backed workflow for storing and working with records.
 
-**Stack:** `Java` · `Swing` · `MySQL`
+**Stack:** `Java` · `Swing` · `MySQL` · `JDBC`
 
-### 📚 [Online Library](https://github.com/Justine976/OnlineLibrary)
+### [Online Library](https://github.com/Justine976/OnlineLibrary)
 
-A web-based library management project focused on database-backed records and server-side Java web development.
+A Java web application for managing library records using server-side Java, database connectivity, and a traditional web application architecture.
 
 **Stack:** `Java` · `Servlets/JSP` · `MySQL` · `JDBC` · `Apache Tomcat`
 
-### 💌 [Online Invitation](https://github.com/Justine976/OnlineInvitation)
+### [Online Invitation](https://github.com/Justine976/OnlineInvitation)
 
-A fully static browser-based invitation builder with shareable links and RSVP functionality, built without a traditional backend server.
+A browser-based invitation project with interactive pages, shareable links, and RSVP-related functionality.
 
 **Stack:** `HTML` · `CSS` · `JavaScript` · `EmailJS`
 
-### 🖥️ [Portfolio Resume](https://github.com/Justine976/PortfolioResume)
+### [Portfolio Resume](https://github.com/Justine976/PortfolioResume)
 
-A code-editor-inspired portfolio and resume website with GitHub project loading, contact links, and a downloadable resume.
+My developer portfolio and online resume, built with a code-editor-inspired design and connected to GitHub for dynamic project information.
 
 **Stack:** `HTML` · `CSS` · `JavaScript` · `GitHub API`
 
-### 🗃️ [CRUD Application — SQLite](https://github.com/Justine976/CrudApplication-SQLite)
+### [CRUD Application — SQLite](https://github.com/Justine976/CrudApplication-SQLite)
 
-A Java CRUD application focused on creating, reading, updating, and deleting records with local SQLite storage.
+A Java CRUD application demonstrating record creation, reading, updating, and deletion with local SQLite storage.
 
 **Stack:** `Java` · `SQLite`
 
-> More school projects, experiments, prototypes, and older projects are available on my [GitHub profile](https://github.com/Justine976).
+> More experiments, school projects, and prototypes are available on my [GitHub profile](https://github.com/Justine976).
 
 ---
 
-## 🧪 `current.exe`
+## `currently_learning`
 
-```yaml
-learning:
-  - software architecture
-  - problem solving
-  - stronger Java skills
-  - database design
-  - full-stack development
-  - UI/UX
+```text
+software architecture
+problem solving
+cleaner Java development
+database design
+full-stack development
+UI/UX
+Git and GitHub workflows
+```
 
-improving:
-  - writing cleaner code
-  - building complete applications
-  - debugging with less guesswork
-  - turning prototypes into polished projects
+My goal is not just to make code work. I want to understand **why it works**, write it more clearly, and gradually build more complete and reliable applications.
 
-build_loop:
-  idea: "start simple"
-  code: "make it work"
-  test: "find what breaks"
-  understand: "learn why"
-  improve: "make it better"
-  ship: "🚀"
+---
+
+## `build_loop`
+
+```text
+IDEA
+ ↓
+CODE
+ ↓
+TEST
+ ↓
+DEBUG
+ ↓
+UNDERSTAND
+ ↓
+IMPROVE
+ ↓
+SHIP
 ```
 
 ---
 
-## 🎨 `beyond --code`
+## `beyond_code`
 
-I also enjoy the visual and creative side of technology.
+I also enjoy the creative and hardware side of technology.
 
-`UI/UX` · `Graphic Design` · `Logo Design` · `Digital Illustration` · `3D Modeling` · `Roblox Assets` · `Electronics`
-
-> **Sometimes the hardest part isn't making it work. It's making it feel right.**
+`UI/UX` · `Graphic Design` · `Logo Design` · `3D Modeling` · `Roblox Projects` · `Electronics`
 
 ---
 
-## 📌 `what_i_like_building`
-
-- 🖥️ Desktop applications
-- 💰 Payroll and business systems
-- 🗄️ Database-driven applications
-- 🌐 Web applications
-- 🎨 Portfolio and UI experiences
-- 🎮 Roblox projects and digital assets
-- 🔌 Electronics projects
-
----
-
-## 🌐 `connect`
+## `connect`
 
 **Portfolio:** https://justine976.github.io/PortfolioResume/
 
@@ -168,10 +154,10 @@ I also enjoy the visual and creative side of technology.
 
 <div align="center">
 
-### `☕ Code. Create. Repeat.`
+### `Code. Create. Improve.`
 
 **Still learning. Still building. Still shipping.**
 
-<sub>Built with Markdown, curiosity, caffeine, and a lot of debugging.</sub>
+<sub>Built with curiosity, caffeine, and plenty of debugging.</sub>
 
 </div>
